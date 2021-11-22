@@ -1,12 +1,12 @@
 [
   { "item": "Insurance Diversty", "user": "ID123456", "score": 70 },
-  { "item": "Insurance Diversty", "user": "ID876543", "score": 30 },
+  { "item": "Insurance Diversty", "user": "ID876543", "score": 35 },
   { "item": "Type of Transaction", "user": "ID123456", "score": 60 },
-  { "item": "Type of Transaction", "user": "ID876543", "score": 70 },
+  { "item": "Type of Transaction", "user": "ID876543", "score": 10 },
   { "item": "Number of Transactions", "user": "ID123456", "score": 50 },
-  { "item": "Number of Transactions", "user": "ID876543", "score": 60 },
-  { "item": "Saving Volume", "user": "ID123456", "score": 40 },
-  { "item": "Saving Volume", "user": "ID876543", "score": 50 },
+  { "item": "Number of Transactions", "user": "ID876543", "score": 40 },
+  { "item": "Saving Volume", "user": "ID123456", "score": 80 },
+  { "item": "Saving Volume", "user": "ID876543", "score": 30 },
   { "item": "Account Diversity", "user": "ID123456", "score": 60 },
-  { "item": "Account Diversity", "user": "ID876543", "score": 70 }
+  { "item": "Account Diversity", "user": "ID876543", "score": 20 }
 ]
